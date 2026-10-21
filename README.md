@@ -15,6 +15,19 @@ A 100% client-side web application that converts images and live video feeds int
 - HTML5 Canvas API for high-performance rendering
 - Web APIs: `getUserMedia`, `MediaRecorder`, `File API`
 
+#Folder Structure
+```text
+ascii-forge/
+│
+├── index.html          # The main skeleton of your webpage
+├── style.css           # The retro CRT styling and layout
+├── script.js           # The brain (all your JavaScript logic)
+├── README.md           # Standard repo documentation
+│
+└── assets/             # (Optional) Folder for custom fonts or icons
+    └── fonts/
+```
+
 ## How to Run
 No build tools required! 
 1. Clone the repo.
